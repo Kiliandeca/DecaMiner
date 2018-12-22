@@ -1,0 +1,1 @@
+shell.run("pastebin run 3Vg7r30w")
